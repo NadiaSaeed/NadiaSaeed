@@ -47,8 +47,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" height="50" /></a>
 
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" height="50" /></a>
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20240131042527" alt="R" height="50" /></a>
-<a href="https://www.rstudio.com/" target="_blank"><img style="margin: 10px" src="https://www.spankyjpn.com/wp-content/uploads/2022/10/imgbin-rstudio-data-analysis-data-science-computer-software-others-ZhNP8Rhhg4vAziZuhbqeWXUq3_t.jpg" alt="RStudio" height="50" /></a>
+<a href="https://www.rstudio.com/" target="_blank"><img style="margin: 10px" src="https://bookdown.org/oscar_teach/estadistica_aplicada_con_r/r-rstudio.png" alt="RStudio" height="50" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://www.perl.org/" target="_blank"><img style="margin: 10px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/perl_logo_freelogovectors.net_.png" alt="Perl" height="50" /></a>
 </div>
