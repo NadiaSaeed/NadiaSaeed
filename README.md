@@ -20,6 +20,9 @@
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
+<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" height="50" /></a>
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/306500/openai.svg" alt="OpenAI" height="50" /></a>
+<a href="https://spacy.io/" target="_blank"><img style="margin: 10px" src="https://explosion.gallerycdn.vsassets.io/extensions/explosion/spacy-extension/1.0.1/1685718946744/Microsoft.VisualStudio.Services.Icons.Default" alt="SpaCy" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
@@ -31,22 +34,21 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.bioconductor.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bioconductor.svg" alt="Bioconductor" height="50" /></a>
-<a href="https://www.genomeweb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/genomeweb.svg" alt="GenomeWeb" height="50" /></a>
+<a href="https://www.bioconductor.org/" target="_blank"><img style="margin: 10px" src="https://www.bioconductor.org/images/logo/svg/Logo.svg" alt="Bioconductor" height="50" /></a>
+<a href="https://www.genomeweb.com/" target="_blank"><img style="margin: 10px" src="https://tukuz.com/wp-content/uploads/2021/05/genomeweb-logo-vector.png" alt="GenomeWeb" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" alt="Docker" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" height="50" /></a>
 
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes.svg" alt="Kubernetes" height="50" /></a>
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r-lang.svg" alt="R" height="50" /></a>
-<a href="https://www.rstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rstudio-icon.svg" alt="RStudio" height="50" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" height="50" /></a>
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20240131042527" alt="R" height="50" /></a>
+<a href="https://www.rstudio.com/" target="_blank"><img style="margin: 10px" src="https://www.spankyjpn.com/wp-content/uploads/2022/10/imgbin-rstudio-data-analysis-data-science-computer-software-others-ZhNP8Rhhg4vAziZuhbqeWXUq3_t.jpg" alt="RStudio" height="50" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://www.perl.org/" target="_blank"><img style="margin: 10px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/perl_logo_freelogovectors.net_.png" alt="Perl" height="50" /></a>
 </div>
