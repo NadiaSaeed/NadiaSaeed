@@ -48,7 +48,7 @@
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r-lang.svg" alt="R" height="50" /></a>
 <a href="https://www.rstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rstudio-icon.svg" alt="RStudio" height="50" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.perl.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/perl.svg" alt="Perl" height="50" /></a>
+<a href="https://www.perl.org/" target="_blank"><img style="margin: 10px" src="[https://www.freelogovectors.net/perl-logo/" alt="Perl" height="50" /></a>
 </div>
 
 </td></tr></table>  
