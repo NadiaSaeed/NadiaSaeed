@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning all about Deep Generative AI Learning
   
 
-- 👯 I’m looking to collaborate on any AI/ML/NLP related projects  
+- 👯 I’m looking to collaborate on any AI/ML/NLP-related projects  
   
 
-- ⚡ Fun fact: Looking for AI TEAM  
+- ⚡ Fun fact: Interested to become a full-stack web developer  
   
 
 <br/>  
